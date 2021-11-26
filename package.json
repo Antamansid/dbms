@@ -1,0 +1,53 @@
+{
+  "name": "dbms",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon ./bin/www",
+    "build": "webpack --config webpack.config.js"
+  },
+  "dependencies": {
+    "axios": "^0.18.1",
+    "body-parser": "^1.18.3",
+    "cookie-parser": "~1.4.4",
+    "dadata-suggestions": "^1.1.1",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "inputmask": "^5.0.7-beta.29",
+    "jquery": "^3.6.0",
+    "jquery-mask-plugin": "^1.14.16",
+    "jquery-ui": "^1.12.1",
+    "json-api": "^3.0.0-rc.6.0.1",
+    "moment": "^2.29.1",
+    "mongoose": "^6.0.13",
+    "mongoose-paginate": "^5.0.3",
+    "morgan": "~1.9.1",
+    "path": "^0.12.7",
+    "pug": "2.0.0-beta11",
+    "react": "^16.6.0",
+    "react-dom": "^16.6.0",
+    "react-redux": "^5.0.5",
+    "react-router-dom": "^5.0.1",
+    "redux": "^3.6.1",
+    "redux-logger": "^2.10.2",
+    "redux-promise-middleware": "^4.4.2",
+    "style-loader": "^3.3.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "css-loader": "^6.3.0",
+    "nodemon": "^2.0.15",
+    "postcss": "^8.3.8",
+    "postcss-loader": "^6.1.1",
+    "postcss-preset-env": "^6.7.0",
+    "source-map-loader": "^0.2.4",
+    "webpack": "^5.54.0",
+    "webpack-cli": "^4.8.0",
+    "webpack-dev-server": "^3.11.0"
+  }
+}

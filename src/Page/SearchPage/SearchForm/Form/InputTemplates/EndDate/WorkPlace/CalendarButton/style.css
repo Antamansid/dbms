@@ -1,0 +1,14 @@
+.main{  
+  display: flex;
+  justify-content: center;
+  align-items: center
+}
+
+.input{
+  background-image: url(https://img.icons8.com/ios/50/000000/calendar.png);
+  width: 30px;
+  height: 30px;
+  background-size: 30px;
+  background-repeat: no-repeat;
+  border: none;
+}

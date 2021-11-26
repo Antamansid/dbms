@@ -1,0 +1,11 @@
+.main{
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+.btn{
+  padding: 10px 40px;
+  color: white;
+  background-color: green;
+  border: none;
+}

@@ -1,0 +1,8 @@
+.main{
+  display: grid;
+  grid-template-columns: 9fr 1fr;
+}
+.text{
+  display: flex;
+  align-items: center;
+}

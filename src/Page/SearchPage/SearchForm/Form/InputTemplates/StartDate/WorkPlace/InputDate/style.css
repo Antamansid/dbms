@@ -1,0 +1,8 @@
+.main{
+  height: 2.5vh;
+  width: 20vw;
+  min-width: 100px;
+  max-width: 120px;
+  margin: 5px;
+  border: 2px solid black;
+}

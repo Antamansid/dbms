@@ -1,0 +1,9 @@
+.main{
+  padding: 10px;
+}
+.inpt{
+  border-style: solid;
+  border-color: lightgray;
+  height: 4vh;
+  width: 40vw;
+}

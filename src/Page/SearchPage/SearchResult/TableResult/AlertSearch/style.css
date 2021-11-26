@@ -1,0 +1,10 @@
+.main{
+  height: 50px;
+  background-color: lightsteelblue;
+  display: flex;
+  align-items: center;
+}
+.text{
+  color: gray;
+  padding: 10px;
+}

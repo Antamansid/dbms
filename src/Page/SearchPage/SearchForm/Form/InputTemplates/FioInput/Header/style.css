@@ -1,0 +1,9 @@
+.main{
+  justify-content: flex-start;
+  align-items: flex-start;
+  display: flex;
+  padding: 2vw 1vh;
+}
+.text{
+  text-align: start;
+}
